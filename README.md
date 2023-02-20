@@ -25,8 +25,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-Added scrollable textview so user can scroll through the description in the main activity
-Added themes and styles for more clarity
+- Added scrollable textview so user can scroll through the description in the main activity
+- Added themes and styles for more clarity
 
 ## Video Walkthrough
 
