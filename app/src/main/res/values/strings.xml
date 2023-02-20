@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlixsterPlus</string>
+    <string name="todo">TODO</string>
+    <string name="_0_votes">0 votes</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="shawshank_redemption">Shawshank Redemption</string>
+</resources>
